@@ -1,1 +1,5 @@
-My new file
+import json
+
+
+dic = {"name":"Hari"}
+print(json.dumps(dic))
